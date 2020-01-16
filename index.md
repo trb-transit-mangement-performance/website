@@ -1,12 +1,14 @@
 ---
-title: Transformative Trends in Transit Data
+title: TRB Transit Management and Performance Standing Committee (AP010)
 ---
 
 # Home
 
-Welcome to the website for TRB's Transformative Trends in Transit Data Subcommittee.
+Welcome to the website for TRB's Transit Management and Performance Standing Committee.
 
-The Joint Subcommittee on Transformative Trends in Transit Data (AP000/ABJ00) focuses on the generation, processing, and emerging opportunities for integrating existing and emerging transit data streams with other transit and transit-related datasets to strengthen the entire network of information.
+*We do some stuff that goes here*
+
+__The Joint Subcommittee on Transformative Trends in Transit Data (AP000/ABJ00) focuses on the generation, processing, and emerging opportunities for integrating existing and emerging transit data streams with other transit and transit-related datasets to strengthen the entire network of information.__
 
 ## Mission
 
@@ -20,21 +22,17 @@ Using a variety of data elements, particularly when they are geocoded, will prov
 
 # Contact Us
 
-[Catherine Lawson](https://www.albany.edu/gp/lawson.php), chair 
-Michael Eichler, Secretary
+Amy Van Doren, (Marin Transit) Outgoing Chair 
+Frances Fisher, (Bay Area Rapid Transit) Incoming Chair
 [Raymond Chan](https://www.raychan.me), webmaster
 
 # Files
 
 ## Meeting Minutes
 
-* [2015 Meeting at TRB Annual Meeting](minutes/2015_Meeting_Minutes.pdf)
-* [2016 Meeting at TRB Annual Meeting](minutes/2016_Meeting_Minutes.pdf)
-* [2017 Meeting at TRB Annual Meeting](minutes/2017_Meeting_Minutes.pdf)
-* [2018 Meeting at TRB Annual Meeting](minutes/2018_Meeting_Minutes.pdf)
-* [DRAFT 2019 Meeting at TRB Annual Meeting](minutes/DRAFT_2019_Meeting_Minutes.pdf)
+Coming Soon!
 
 ## Agenda
-* [2020 Agenda at TRB Annual Meeting](minutes/2020_Agenda.pdf)
 
+Also coming soon
 
