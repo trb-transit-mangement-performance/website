@@ -22,9 +22,9 @@ Using a variety of data elements, particularly when they are geocoded, will prov
 
 # Contact Us
 
-Amy Van Doren, (Marin Transit) Outgoing Chair 
-Frances Fisher, (Bay Area Rapid Transit) Incoming Chair
-[Raymond Chan](https://www.raychan.me), webmaster
+* Amy Van Doren, (Marin Transit) Outgoing Chair 
+* Frances Fisher, (Bay Area Rapid Transit) Incoming Chair
+* [Raymond Chan](https://www.raychan.me), webmaster
 
 # Files
 
