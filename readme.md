@@ -1,6 +1,6 @@
-# Transformative Trends in Transit Data Submcommitee - TRB AP000/ABJ000
+# TRB Transit Management and Peformance Standing Committee - AP010
 
-This website hosts the Transformative Trends in Transit Data, a Transporation Research Board Subcommitee.  
+This website hosts TRB Transit Management and Performance, a Transporation Research Board Standing Commitee.  
 
 # Why GitHub?  
 
