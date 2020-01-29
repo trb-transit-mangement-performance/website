@@ -8,10 +8,6 @@ Welcome to the website for TRB's Transit Management and Performance Standing Com
 
 The AP010 committee is concerned with the relationship between transit management actions and performance through the analysis and development of management techniques, identification of appropriate performance measures and their application for improvement of information for transit management decision-making
 
-## Mission
-
-Transit has traditionally existed in a data-rich environment (e.g., the National Transit Database (NTD).  Previously collected manually, many of the data elements can now be assembled from equipment-generated data streams (e.g., Automatic Passenger Counts).  Within a transit agency, internal operations, financial reporting, ridership programs, and other transit activities all generate, or manipulate specific data elements to serve specific in-house users.  Along with the use of GIS tools by transit dispatchers and managers to monitor service on the street, the creation and implementation of General Transit Feed Specifications (GTFS) and GTFS-Real-time, now provides transit customers with web and smart phone-accessible scheduling and transit service navigation information.  This Joint Subcommittee seeks to foster coordination, communication, and research exploration among transit agencies and researchers, and the broader transportation data community. 
-
 ## Future Outlook
 
 Transit managers are increasingly called on to utilize performance management to: measure performance, use the results to improve overall mobility and customer experience, and quantify the benefits of transit to stakeholders. This emphasis on performance is driven by a number of factors.  These include MAP-21/FAST Act requirements to drive the use of performance information for decision-making across transportation modes, increasing expectations from customers and stakeholders for transparency and accountability, and availability of "big data" to inform decisions.
