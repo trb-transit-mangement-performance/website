@@ -6,8 +6,6 @@ title: TRB Transit Management and Performance Standing Committee (AP010)
 
 Welcome to the website for TRB's Transit Management and Performance Standing Committee.
 
-*We do some stuff that goes here*
-
 The AP010 committee is concerned with the relationship between transit management actions and performance through the analysis and development of management techniques, identification of appropriate performance measures and their application for improvement of information for transit management decision-making
 
 ## Mission
