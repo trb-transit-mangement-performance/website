@@ -41,3 +41,8 @@ Coming Soon!
 ## Strategic Plan
 
 [2017-2020 AP010 Strategic Plan](files/AP010_Strategic_Plan_2017-2020.pdf)
+
+## Innovations in Transit Performance Measurement Challenge
+
+2021 Details Coming Soon!
+[2020 Challenge Finalist Announcement Flyer](files/AP010_PerfChallenge_TRBFlyer_2020.pdf)
