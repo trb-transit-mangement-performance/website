@@ -12,11 +12,11 @@ The AP010 committee is concerned with the relationship between transit managemen
 
 Transit managers are increasingly called on to utilize performance management to: measure performance, use the results to improve overall mobility and customer experience, and quantify the benefits of transit to stakeholders. This emphasis on performance is driven by a number of factors.  These include MAP-21/FAST Act requirements to drive the use of performance information for decision-making across transportation modes, increasing expectations from customers and stakeholders for transparency and accountability, and availability of "big data" to inform decisions.
 
-The importance of transit performance management has only increased with the rise of alternative mobility options in the private sector.  Transportation Network Companies (e.g. Uber, Lyft, flexible commute services), the emergence of automated vehicles, and other demographic trends present critical issues that will determine the future of transit agencies.  Transit managers and researchers need to pursue a proactive and strategic vision of transit’s future as a mobility manager.  Under this vision, they need to advance the use of new technologies and integrate data and performance management tools into their business practices.
+The importance of transit performance management remains as agencies rewrite the definition of success as COVID-19 has changed how we live and move. We also continue to adjust to the rise of alternative mobility options in the private sector.  Transportation Network Companies (e.g. Uber, Lyft, flexible commute services), the emergence of automated vehicles, and demographic trends present critical issues that will determine the future of transit agencies.  Transit managers and researchers need to pursue a proactive and strategic vision of transit’s future as a mobility manager.  Under this vision, they need to advance the use of new technologies and integrate data and performance management tools into their business practices.
 
 Transit providers and researchers are strategizing how public transit will continue to be a viable mobility solution in this changing transportation landscape.  Transit moves people to jobs, schools, and activities, and supports sustainability, quality of life and transit oriented development.  Transit agencies are called on to demonstrate their value to public and elected officials, and performance measurement is the tool to accomplish this goal.  Practice-oriented research is needed on how to utilize existing customer data, such as customer feedback/complaints, and explore new methods to measure customer experience via social media and other tools.
 
-As transit agencies seek to improve customer satisfaction amid increased competition, system performance measures will need to evolve to reflect the customer’s perspective, following the lead of highways from level-of-service to customer travel time, and take full advantage of new technologies such as fare collection data, cell phones, etc. For substantive performance improvements, the scope of performance management will also need to manage the underlying drivers of system performance such as transit asset management and back-office efficiency.
+As transit agencies seek to improve customer satisfaction amid concerns for health, safety and increased competition, system performance measures will need to evolve to reflect the customer’s perspective, following the lead of highways from level-of-service to customer travel time, and take full advantage of new technologies such as fare collection data, cell phones, etc. For substantive performance improvements, the scope of performance management will also need to manage the underlying drivers of system performance such as transit asset management and back-office efficiency.
 
 Recent changes in federal requirements for transit asset management (TAM) are a cross-cutting issue that brings the application of performance management principles to physical assets, and calls for agencies to develop customer-facing and asset lifecycle measures for managing performance, risk, and costs. Transit agencies need support in maturing their performance management programs and new asset measures to inform decision-making, investment strategies, and operations.
 
@@ -44,5 +44,13 @@ Coming Soon!
 
 ## Innovations in Transit Performance Measurement Challenge
 
-2021 Details Coming Soon!
+2021 Challenge
+[2021 Challenge - Calling All Entries!](files/2021_call_for_entries)
+[2021 Challenge - Submit Your Entry](files/2021_submit_entry)
+Questions? Contact [Alissa Zimmer (MBTA)](mailto:azimmer@mbta.com)
+ 
+
+
+2020 Challenge 
 [2020 Challenge Finalist Announcement Flyer](files/AP010_PerfChallenge_TRBFlyer_2020.pdf)
+
