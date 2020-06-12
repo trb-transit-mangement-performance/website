@@ -44,9 +44,11 @@ Coming Soon!
 
 ## Innovations in Transit Performance Measurement Challenge
 
-2021 Challenge
-[2021 Challenge - Calling All Entries!](files/2021_call_for_entries)
-[2021 Challenge - Submit Your Entry](files/2021_submit_entry)
+### 2021 Challenge
+
+*[2021 Challenge - Calling All Entries!](files/2021_call_for_entries.pdf)
+*[2021 Challenge - Submit Your Entry](files/2021_submit_entry.pdf)
+
 Questions? Contact [Alissa Zimmer (MBTA)](mailto:azimmer@mbta.com)
  
 
