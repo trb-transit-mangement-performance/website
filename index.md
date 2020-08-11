@@ -45,8 +45,9 @@ Coming Soon!
 ## Innovations in Transit Performance Measurement Challenge
 
 2021 Challenge
-[2021 Challenge - Calling All Entries!](files/2021_call_for_entries)
-[2021 Challenge - Submit Your Entry](files/2021_submit_entry)
+Entry deadline extended to Sept. 1, 2020! Silver lining: Extended deadline and no travel budgets required to participate in TRB's Annual Meeting in 2021.
+[2021 Challenge - Calling All Entries!](files/TRB_CallForEntries_Aug10)
+[2021 Challenge - Submit Your Entry](files/2021_submit_entry_Aug10)
 Questions? Contact [Alissa Zimmer (MBTA)](mailto:azimmer@mbta.com)
  
 
